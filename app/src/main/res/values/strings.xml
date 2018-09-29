@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">test3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="list_item">
+        <item>我是第一个</item>
+        <item>我是第二个</item>
+        <item>我是第三个</item>
+        <item>我是第四个</item>
+        <item>我是第五个</item>
+        <item>我是第六个</item>
+        <item>我是第七个</item>
+    </string-array>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+
+</resources>
